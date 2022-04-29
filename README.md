@@ -10,7 +10,7 @@
 <!--START_SECTION:badges-->
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/2b0ead1c-9081-44d2-8992-b46a6bbd91c5 "AWS Certified Solutions Architect – Associate")
-[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/58f22878-bc35-4e44-9dcc-940215a9b131/WellArch-Proficient.png)](http://www.credly.com/badges/45a29418-4b2d-49e5-bdcb-ab60c6b73769 "Well-Architected Proficient")
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/45a29418-4b2d-49e5-bdcb-ab60c6b73769 "Well-Architected Proficient")
 <!--END_SECTION:badges-->
 
 ## 📊 GitHub Stats
