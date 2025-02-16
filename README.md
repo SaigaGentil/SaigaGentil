@@ -14,6 +14,7 @@
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/b6b15921-75a7-4b01-88f1-2c4d4beeadf7 "Well-Architected Proficient")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/a6248a9b-4086-4bd4-a1c3-f2dde3d1b2bc "AWS Cloud Quest: Solutions Architect")
 [![AWS Cloud Quest: Serverless Developer](https://images.credly.com/size/110x110/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png)](http://www.credly.com/badges/ef3be6a4-5b79-4fea-afd7-ddb341a8af57 "AWS Cloud Quest: Serverless Developer")
+[![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/8baaae74-151f-4007-bc5c-7363b26ed3be "AWS Cloud Quest: Security")
 <!--END_SECTION:badges-->
 
 ## 📊 GitHub Stats
