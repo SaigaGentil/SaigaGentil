@@ -10,6 +10,8 @@ jobs:
   update-readme:
     name: Update Readme with badges from credly
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Update Readme with badges from credly
         uses: pemtajo/badge-readme@3.1.1
@@ -17,4 +19,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"
           CREDLY_USER: bruno-axel-kamere
-          CREDLY_SORT: POPULAR
