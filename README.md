@@ -8,6 +8,7 @@
 ## 🎓 Certificates and Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/86ee3add-9ef1-4fd8-9b12-1f0ea6814c09" title="AWS Partner: Sales Accreditation - Training Badge"><img src="https://images.credly.com/size/80x80/images/46ea4542-72a8-46a1-8d68-b72c4ca50820/blob" alt="AWS Partner: Sales Accreditation - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/84b3fe38-a4da-47c1-8de1-881917c6a430" title="AWS Partner: Cloud Economics Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/5749832b-21b7-47f9-9ad4-b2fef13d0454/blob" alt="AWS Partner: Cloud Economics Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/888acc8c-32a7-4caf-88d6-8ba45e03f643" title="AWS Partner: Digital Sovereignty Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/06367f13-6b98-415c-bfde-ef532d77ef98/blob" alt="AWS Partner: Digital Sovereignty Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fd625b86-213c-4b2b-a6ba-ac0411eab0a4" title="AWS Partner: Generative AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob" alt="AWS Partner: Generative AI Essentials - Training Badge" width="80" height="80"></a>
